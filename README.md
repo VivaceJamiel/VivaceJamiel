@@ -13,9 +13,14 @@ developer tooling.
 - **AI-assisted development:** agentic code review and automated log/telemetry analysis
 
 ## Tech
-**Languages:** C# (.NET Framework 4.x, .NET 10) · TypeScript · JavaScript · Python · SQL · PowerShell
-**Testing:** NUnit · Moq · TypeMoq · Jasmine/Karma · Playwright
-**Tools and platforms:** Git · GitHub · GitHub Actions · Jenkins · Harness · New Relic · Grafana
+**Languages:** C# (.NET Framework 4.x, .NET 10) · TypeScript · JavaScript · Python · SQL · PowerShell · React
+**Cloud and infrastructure:** Azure · Kubernetes · Docker
+**Testing:** NUnit · Moq · TypeMoq
+**CI/CD and tools:** Git · GitHub · GitHub Actions · Jenkins · Harness
+**Observability:** New Relic · Grafana
+
+## Currently learning
+Kafka · stream processing · distributed systems design
 
 ## Background
 B.S. in Computer Science, University of Illinois Chicago. As an undergraduate
