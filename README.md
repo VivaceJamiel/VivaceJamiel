@@ -14,9 +14,13 @@ developer tooling.
 
 ## Tech
 **Languages:** C# (.NET Framework 4.x, .NET 10) · TypeScript · JavaScript · Python · SQL · PowerShell · React
+
 **Cloud and infrastructure:** Azure · Kubernetes · Docker
+
 **Testing:** NUnit · Moq · TypeMoq
+
 **CI/CD and tools:** Git · GitHub · GitHub Actions · Jenkins · Harness
+
 **Observability:** New Relic · Grafana
 
 ## Currently learning
